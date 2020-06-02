@@ -26,8 +26,5 @@ pip install streamlit
 streamlit run app.py
 
 ### How can you use this app
-👍 When you first open the browser, you will see a page like this:
-![Test Image 3](assets/HomePage.png)
-
-###### Here is a video to give a detailed illustration
+👍 Here is a video to give a detailed illustration
 [![Watch the video](assets/HomePage.png)](https://youtu.be/e3gRjiqfMmM)
