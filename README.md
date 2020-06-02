@@ -30,4 +30,4 @@ streamlit run app.py
 ![Test Image 3](assets/HomePage.png)
 
 ###### Here is a video to give a detailed illustration
-[![Watch the video](assets/HomePage.png)](https://youtu.be/gx5EXONV4no)
+[![Watch the video](assets/HomePage.png)](https://youtu.be/e3gRjiqfMmM)
